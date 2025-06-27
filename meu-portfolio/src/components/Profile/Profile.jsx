@@ -5,22 +5,21 @@ import { FaGithub } from "react-icons/fa";
 import { AiOutlineWhatsApp } from "react-icons/ai";
 import { TbBrandLinkedin } from "react-icons/tb";
 import { LuNewspaper } from "react-icons/lu";
-const HeroSection = () => {
+import ParticleBackground from "@/components/ParticleBackground/ParticleBackground.jsx";
+const Profile = () => {
   return (
-    <section
-      id="home"
-      className="bg-gray-900 text-white min-h-screen flex items-center"
-    >
+    <section id="home" className="text-white min-h-screen flex items-center">
+      <ParticleBackground />
+
       <div className="container mx-auto px-2">
         <div className="flex flex-col md:flex-row items-center gap-10">
           <div className="md:w-1/2 text-center md:text-left">
-            <h1 className="text-4xl md:text-6xl font-bold leading-tight">
+            <h1 className="text-4xl md:text-6xl font-bold leading-tight z-10">
               Olá, eu sou Alexandre, <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400 z-10">
                 Desenvolvedor FullStack
               </span>
             </h1>
-
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-5">
               <Button
                 asChild
@@ -85,15 +84,8 @@ const HeroSection = () => {
               </Button>
             </div>
           </div>
-
-          {/* Coluna da Direita: Imagem */}
           <div>
-            {/* Por enquanto, usamos uma imagem placeholder. Depois trocaremos pela sua foto. */}
-            <img
-              // src="meu-portfolio\public\formal.jpg"
-              src="/formal4.png"
-              alt="Foto de Alexandre"
-            />
+            <img src="/formal4.png" alt="Foto de Alexandre" />
           </div>
         </div>
       </div>
@@ -101,4 +93,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default Profile;

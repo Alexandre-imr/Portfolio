@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
-import HeroSection from "./components/HeroSection/HeroSection";
+import Profile from "./components/Profile/Profile";
 import SkillsSection from "./components/SkillsSection/SkillsSection";
 import ProjectsSection from "./components/ProjectsSection/ProjectsSection";
 import ContactSection from "./components/ContactSection/ContactSection";
@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <HeroSection />
+      <Profile />
       <SkillsSection />
       <ProjectsSection />
       <ContactSection />
