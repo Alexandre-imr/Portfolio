@@ -31,7 +31,7 @@ const ParticleBackground = () => {
           color: "#ffffff",
           distance: 150,
           enable: true,
-          opacity: 0.5,
+          opacity: 0.6,
           width: 1,
         },
         move: {
@@ -43,7 +43,7 @@ const ParticleBackground = () => {
             enable: true,
             area: 800,
           },
-          value: 80,
+          value: 150,
         },
         opacity: {
           value: 0.5,
