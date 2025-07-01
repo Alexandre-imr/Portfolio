@@ -1,0 +1,42 @@
+[33mcommit 9823923b669802fd07e0332c9053dceb52eb763e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: b8b0b1a 5fe2e04
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Tue Jul 1 02:24:00 2025 -0300
+
+    Merge branch 'main' of https://github.com/Alexandre-imr/Portfolio
+
+[33mcommit b8b0b1a1d4145aed19f53f33f4480740f9567cce[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Tue Jul 1 02:23:56 2025 -0300
+
+    Convertando
+
+[33mcommit 5fe2e0485bf8654cdfce67a7773e08d48aab072f[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Tue Jul 1 01:50:34 2025 -0300
+
+    Config Email
+
+[33mcommit 6d346dc617799021562a9c1ec152326877d3c2a2[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Tue Jul 1 01:37:10 2025 -0300
+
+    Front-end finalizado
+
+[33mcommit 08baf4b653da9ea32950aaebb744686cd0ad7b67[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Fri Jun 27 12:26:27 2025 -0300
+
+    Profile with Particles
+
+[33mcommit 4f7814883b5af282b73b0296ff89e01c6ddc9ed0[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Fri Jun 27 02:01:03 2025 -0300
+
+    Commit inicial do portfólio
+
+[33mcommit 783d1d839c3e82b045e888703c550ddffaaa1417[m
+Author: Alexandre-imr <alexandre.imr@hotmail.com>
+Date:   Fri Jun 27 02:00:55 2025 -0300
+
+    Primeiro Commit
