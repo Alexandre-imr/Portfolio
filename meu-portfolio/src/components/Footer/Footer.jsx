@@ -31,7 +31,7 @@ const Footer = () => {
             <FaLinkedin size={24} />
           </a>
           <a
-            href="https://api.whatsapp.com/send/?phone=5531997436773&text=Ol%C3%A1"
+            href="https://api.whatsapp.com/send?phone=5531997436773&text=Ol%C3%A1!%20Vi%20seu%20curr%C3%ADculo%20e%20gostaria%20de%20entrar%20em%20contato."
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors"
